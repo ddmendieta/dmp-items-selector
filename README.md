@@ -1,5 +1,5 @@
 # \<dmp-group-selector-wrap\>
-
+This component is a item selector group wrapper. It needs have ChildNodes with value and selected attribute
 
 
 ## Install the Polymer-CLI
