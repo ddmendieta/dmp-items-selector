@@ -1,0 +1,21 @@
+{
+  "name": "dmp-group-selector-wrap",
+  "main": "dmp-group-selector-wrap.js",
+  "dependencies": {
+    "@polymer/polymer": "^3.0.0"
+  },
+  "devDependencies": {
+    "@polymer/iron-component-page": "^4.0.1",
+    "@polymer/iron-demo-helpers": "^3.0.0-pre.19",
+    "@webcomponents/webcomponentsjs": "^2.0.0",
+    "shelljs": "^0.8.3",
+    "wct-browser-legacy": "^1.0.0"
+  },
+  "scripts": {
+    "doc": "node ./doc-generator.js"
+  },
+  "engines": { 
+      "node" : ">=0.10.3 <0.12" ,
+      "polymer-cli" : ">=1.8.0"
+    }
+}
